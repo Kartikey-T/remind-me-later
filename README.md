@@ -1,2 +1,3 @@
 # remind-me-later
-Simple reminder API using Node.js
+A simple Node.js API to save reminders with date, time, message, and method (SMS/Email).
+
